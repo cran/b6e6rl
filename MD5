@@ -1,0 +1,17 @@
+289045f66adb50c56187a0ca32cdd1d0 *DESCRIPTION
+81959f90a2e29961d74e291343971b22 *NAMESPACE
+b593a27abc67fcb6dd044655fb2d9629 *R/CRexp_set.R
+b8988622219d52e9695ae62b48e99de9 *R/b6e6rl.R
+f26c368fc70abf0a355f73dfb24cb6f7 *R/derand_RL.R
+7bd6c26ee92e64315be2bf9da1bb6da4 *R/derandexp_RL.R
+afeaea51f9cb406447f124f5bd106107 *R/f_dejong.R
+6a3faaac81615614f9374dbe2ccbfddb *R/f_rastrigin.R
+82cf4fe871ec58bc0cabe443438e7879 *R/f_rosenbrock.R
+2902a893a597083624db14e56d6105b0 *R/is.empty.R
+d13f0f3865fac3f6a059ef95ee7ddccd *R/nahvyb_expt.R
+3cca022185aa160f444ec6f7821378ed *R/roulete.R
+009f197bebc78ccd33a381c1cff24837 *R/zrcad.R
+9141edfc9b87e38ef2ef24d644c55e78 *man/b6e6rl.Rd
+1bf87c4ed8a061d000ad74dbb025b247 *man/f_dejong.Rd
+8574e6a46be179661c368d8e25b1f7e8 *man/f_rastrigin.Rd
+6bbca82607125a8cf829a5d3e0c030ff *man/f_rosenbrock.Rd
