@@ -29,7 +29,7 @@ while ((fmax-fmin > my_eps) && (func_evals < d*max_evals)){	#main loop
 		hh <- roulete(ni)[1]		#select hh-th set of parameters
 		p_min <- roulete(ni)[2]		
 		if (p_min < delta){
-			cni <- cni + ni - n0	#spojit vektory a odecist?
+			cni <- cni + ni - n0	
 			ni <- rep(0,h) + n0	
 			nrst <- nrst + 1
 		}#reset
@@ -114,7 +114,6 @@ cni <- cni + ni - n0
 x_star <- P[indmin,1:d]
 fn_star <- fmin
 result <- list(x_star=x_star,fn_star=fn_star,fn_name=fn_name,func_evals=func_evals,success=success,nrst=nrst,cni=cni)
-
 
 return(result)
 }
